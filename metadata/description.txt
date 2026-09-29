@@ -1,0 +1,15 @@
+Autochrome is a private daily journal for one warm moment at a time. You save today with a feeling, and you can attach a photo or a short voice clip, then keep that day with the others. It is for someone who wants matching days to stand out on this device, not a social feed.
+
+• Save one warm moment for today with a feeling
+• Feeling names Amber, Harbor, Linen, Grove, which you can rename in Settings
+• Attach photo or Add voice on the Save a moment form
+• Keep this day so it joins the other days
+• On Moments, a glass row of kept days; only days that share today's feeling stand out
+• Open a matching day from the glass row or Open {feeling}
+• Garden lists every kept day, newest first; Open this moment to read a Moment
+• Show introduction again without erasing
+• Erase saved moments on this device
+• Contact Autochrome in Settings
+• Saved moments, photos, and voice clips stay on this device
+
+After the introduction, Moments is the main screen. Portrait only, on iPhone and iPad. Light appearance only. Requires the full screen on iPad. English copy only.
