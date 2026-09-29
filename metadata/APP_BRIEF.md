@@ -1,4 +1,4 @@
-<!-- gf-brief source=a5c7e28b4be5eb1f4a94f164bca7ab6e8dd09cbbf2d7ecf61870937e46961fc3 written=2026-09-29T19:11:42+03:00 -->
+<!-- gf-brief source=a5c7e28b4be5eb1f4a94f164bca7ab6e8dd09cbbf2d7ecf61870937e46961fc3 written=2026-09-29T19:15:29+03:00 -->
 # Autochrome
 
 ## What it is
